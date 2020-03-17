@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+  font: 14px Avenir, Helvetica, Arial, sans-serif;
+  color: #4b0f31;
+  background-color: #f1e5e6;
+  text-align: center;
+}
+
+img {
+  height: 10em;
+}

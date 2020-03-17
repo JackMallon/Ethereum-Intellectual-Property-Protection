@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin-ip-protection",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "crypto": "^1.0.1",
+    "cryptojs": "^2.5.3",
+    "csurf": "^1.11.0",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "express-layout": "^0.1.0",
+    "formidable": "^1.2.2",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  }
+}
