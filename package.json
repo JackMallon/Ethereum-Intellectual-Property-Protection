@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "bitcoinjs-lib": "^5.1.7",
     "cookie-parser": "~1.4.3",
     "crypto": "^1.0.1",
     "cryptojs": "^2.5.3",
